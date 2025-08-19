@@ -1,6 +1,5 @@
 ---
 title: "Modelling Peak Electricity Demand in Great Britain"
-author: "15, Jinhua Li s2761681, Shaoxuan Quan s2765780, Jiawu Wang s2282849"
 output:
   html_document:
     number_sections: yes
@@ -1377,3 +1376,4 @@ Include here all the code used in your analysis. Ensure that the code is well-co
 ```{r code=readLines("code.R"), eval=FALSE, echo=TRUE}
 # Do not change this code chunk
 ```
+
